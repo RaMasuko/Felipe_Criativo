@@ -15,7 +15,7 @@ Atuei em todas as etapas do projeto, desde a concepção até a implementação.
 ## Demonstração
 https://youtu.be/7-utVs1nyA0
 
-## 📌 Aprendizados
+## Aprendizados
 - Estruturação de lógica de jogo
 - Organização de código
 - Desenvolvimento de mecânicas interativas
